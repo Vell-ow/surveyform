@@ -1,0 +1,112 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2822
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fmodern\fcharset0 Courier;}
+{\colortbl;\red255\green255\blue255;\red107\green0\blue1;\red234\green234\blue234;\red0\green0\blue0;
+\red251\green0\blue7;\red19\green118\blue70;\red9\green60\blue148;\red144\green1\blue18;}
+{\*\expandedcolortbl;;\cssrgb\c50196\c0\c0;\cssrgb\c93333\c93333\c93333;\cssrgb\c0\c0\c0;
+\cssrgb\c100000\c0\c0;\cssrgb\c3529\c52549\c34510;\cssrgb\c1569\c31765\c64706;\cssrgb\c63922\c8235\c8235;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs36 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 body\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 100%\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 height:\cf0 \strokec4  \cf6 \strokec6 100vh\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 background-color:\cf0 \strokec4  \cf7 \strokec7 #1b1b32\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 color:\cf0 \strokec4  \cf7 \strokec7 #f5f6f7\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-family:\cf0 \strokec4  \cf7 \strokec7 Tahoma\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf6 \strokec6 16px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 h1\cf0 \strokec4 , \cf2 \strokec2 p\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 1em\cf0 \strokec4  \cf7 \strokec7 auto\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 text-align:\cf0 \strokec4  \cf7 \strokec7 center\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 form\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 60vw\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 max-width:\cf0 \strokec4  \cf6 \strokec6 500px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 min-width:\cf0 \strokec4  \cf6 \strokec6 300px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4  \cf7 \strokec7 auto\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding-bottom:\cf0 \strokec4  \cf6 \strokec6 2em\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 fieldset\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf7 \strokec7 none\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf6 \strokec6 2rem\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border-bottom:\cf0 \strokec4  \cf6 \strokec6 3px\cf0 \strokec4  \cf7 \strokec7 solid\cf0 \strokec4  \cf7 \strokec7 #3b3b4f\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 fieldset:last-of-type\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 border-bottom:\cf0 \strokec4  \cf7 \strokec7 none\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 label\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf7 \strokec7 block\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 0.5rem\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf0 \strokec4 ,\cb1 \strokec4 \
+\cf2 \cb3 \strokec2 textarea\cf0 \strokec4 ,\cb1 \strokec4 \
+\cf2 \cb3 \strokec2 select\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 10px\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 100%\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 min-height:\cf0 \strokec4  \cf6 \strokec6 2em\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf0 \strokec4 , \cf2 \strokec2 textarea\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 background-color:\cf0 \strokec4  \cf7 \strokec7 #0a0a23\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border:\cf0 \strokec4  \cf6 \strokec6 1px\cf0 \strokec4  \cf7 \strokec7 solid\cf0 \strokec4  \cf7 \strokec7 #0a0a23\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 color:\cf0 \strokec4  \cf7 \strokec7 #ffffff\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 .inline\cf0 \strokec4  \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf7 \strokec7 unset\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4  \cf6 \strokec6 0.5em\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4  \cf6 \strokec6 0\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 vertical-align:\cf0 \strokec4  \cf7 \strokec7 middle\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf0 \strokec4 [\cf7 \strokec7 type\cf0 \strokec4 =\cf8 \strokec8 "submit"\cf0 \strokec4 ] \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 display:\cf0 \strokec4  \cf7 \strokec7 block\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 width:\cf0 \strokec4  \cf6 \strokec6 60%\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 margin:\cf0 \strokec4  \cf6 \strokec6 1em\cf0 \strokec4  \cf7 \strokec7 auto\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 height:\cf0 \strokec4  \cf6 \strokec6 2em\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 font-size:\cf0 \strokec4  \cf6 \strokec6 1.1rem\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 background-color:\cf0 \strokec4  \cf7 \strokec7 #3b3b4f\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 border-color:\cf0 \strokec4  \cf7 \strokec7 white\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 min-width:\cf0 \strokec4  \cf6 \strokec6 300px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 input\cf0 \strokec4 [\cf7 \strokec7 type\cf0 \strokec4 =\cf8 \strokec8 "file"\cf0 \strokec4 ] \{\cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4   \cf5 \strokec5 padding:\cf0 \strokec4  \cf6 \strokec6 1px\cf0 \strokec4  \cf6 \strokec6 2px\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf2 \cb3 \strokec2 a\cf0 \cb1 \strokec4 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \cb3 \strokec4 \{\cb1 \strokec4 \
+\cb3 \strokec4   \cf5 \strokec5 color:\cf0 \strokec4  \cf7 \strokec7 #dfdfe2\cf0 \strokec4 ;\cb1 \strokec4 \
+\cb3 \strokec4 \}\cb1 \strokec4 \
+}
